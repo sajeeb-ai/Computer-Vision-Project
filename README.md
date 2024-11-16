@@ -1,6 +1,6 @@
 # Computer-Vision-Project
 
-## Project 1: Basic Image Manipulation with OpenCV
+## Project 1: Image Manipulation with OpenCV
 
 In this section, we explore basic image manipulation techniques using OpenCV. This project allows us to understand fundamental operations such as adding text, drawing shapes, and applying transformations (rotation, scaling, and translation) to images. These skills form the foundation for more advanced computer vision tasks.
 
